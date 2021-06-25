@@ -1,0 +1,6 @@
+﻿  acl.cpp
+c:\users\elvin\source\repos\project85\project85\acl.cpp(14): warning C4101: result: неиспользованная локальная переменная
+c:\users\elvin\source\repos\project85\project85\acl.cpp(10): warning C4101: pSid: неиспользованная локальная переменная
+  intgr_of_file.cpp
+  Создание кода...
+  Project85.vcxproj -> C:\Users\Elvin\source\repos\Project85\Debug\Project85.exe
